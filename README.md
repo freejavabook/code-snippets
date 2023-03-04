@@ -38,6 +38,8 @@ Lagom Peter: Many Devops tools for java developers!
 
 Aaron MAJAMBO (@majambo) : Added my own comments
 
+minseung kwon (@freelife1191) : Completed this exercise
+
 Exercise done!
 
 ---
